@@ -1,0 +1,7 @@
+Dynamic Power Script
+
+Created by Andrew Skinner | http://www.andrewskinner.name
+
+This script monitors the health of the UK National Grid and modifies the OS X Power Management settings accordingly. Surplus power and disks stay active longer, the screen saver takes longer to kick in etc. A power deficit and the reverse happens.
+
+The script is fully configurable.
